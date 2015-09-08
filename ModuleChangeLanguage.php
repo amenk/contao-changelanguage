@@ -28,7 +28,7 @@
  */
 
 
-class ModuleChangelanguage extends Module
+class ModuleChangeLanguage extends Module
 {
 
     /**
